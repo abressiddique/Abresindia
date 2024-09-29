@@ -25,14 +25,15 @@ const Footer = () => {
         <div className="flex flex-col mb-6 lg:mb-0">
           <h4 className="font-bold">Follow Us</h4>
           <div className="flex justify-start lg:justify-end mt-4 space-x-2">
-            <a href="https://linkedin.com/in/abresindia" target="_blank" rel="noopener noreferrer">
-              <img src="/linkedin-icon.svg" alt="LinkedIn Icon" className="w-8 h-8 hover:scale-110 transition-transform duration-200" />
+            {/* Using emojis instead of icons */}
+            <a href="https://linkedin.com/in/abresindia" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white">
+              🤝 {/* LinkedIn emoji */}
             </a>
-            <a href="https://facebook.com/abresindia" target="_blank" rel="noopener noreferrer">
-              <img src="/facebook-icon.svg" alt="Facebook Icon" className="w-8 h-8 hover:scale-110 transition-transform duration-200" />
+            <a href="https://facebook.com/abresindia" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white">
+              📘 {/* Facebook emoji */}
             </a>
-            <a href="https://www.instagram.com/abresessential?igsh=MTNqcjlmeXYybTczNQ==" target="_blank" rel="noopener noreferrer">
-              <img src="/instagram-icon.svg" alt="Instagram Icon" className="w-8 h-8 hover:scale-110 transition-transform duration-200" />
+            <a href="https://www.instagram.com/abresessential?igsh=MTNqcjlmeXYybTczNQ==" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white">
+              📷 {/* Instagram emoji */}
             </a>
           </div>
         </div>
