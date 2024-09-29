@@ -9,7 +9,7 @@ const HistorySection = () => {
         <h1 className="text-6xl font-bold mb-8 text-center">Our History</h1>
         <div className="space-y-4">
           <p className="text-xl leading-relaxed">
-            Abres India was founded by Matin Ahmed Siddiqui in 1984, who drew inspiration from his father, Zahen Ahmed Siddiqui, a talented fashion designer known for his artistic and exquisite designs. Zahen Ahmed Siddiqui was a pioneer in the fashion design industry, and Matin took the lessons he learned from his father to establish a brand that combined tradition with innovation, setting the foundation for Abres India’s journey in the world of fashion.
+            Abres India was founded by Matin Ahmed Siddiqui in 1984, who drew inspiration from his father, Zahin Ahmed Siddiqui, a talented fashion designer known for his artistic and exquisite designs. Zahen Ahmed Siddiqui was a pioneer in the fashion design industry, and Matin took the lessons he learned from his father to establish a brand that combined tradition with innovation, setting the foundation for Abres India’s journey in the world of fashion.
           </p>
           <p className="text-xl leading-relaxed">
             In the early years, Abres India focused primarily on printing fabrics. The first manufacturing plant was set up in Dharavi, Mumbai, which played a crucial role in launching the company's operations. With a vision to introduce creativity into fabric designs, Matin Ahmed Siddiqui and his team started experimenting with unique prints that revolutionized the fabric printing market. Our artistic designs quickly gained popularity, making us a trendsetter in the industry.
